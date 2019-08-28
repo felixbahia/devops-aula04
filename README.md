@@ -1,4 +1,4 @@
 # devops-aula04
-Quarto de Guerra
-Deus não esta morto
-A prova de Fogo
+Quarto de Guerra</br>
+Deus não esta morto</br>
+A prova de Fogo</br>
